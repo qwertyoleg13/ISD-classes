@@ -14,4 +14,4 @@ ISD initiative groupe classes of Irena Slava Victoria and Oleg
 * [Input-Output](Hometask_10)
 
 
-[*Go to top* ^](# ISD-classes)
+[*Go to top* ^](#ISD-classes)
