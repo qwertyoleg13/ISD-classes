@@ -1,0 +1,7 @@
+D:\ISD\DZ\1\2-5\Homework1-2-5\Homework1-2-5\bin\Debug\Homework1-2-5.exe.config
+D:\ISD\DZ\1\2-5\Homework1-2-5\Homework1-2-5\bin\Debug\Homework1-2-5.exe
+D:\ISD\DZ\1\2-5\Homework1-2-5\Homework1-2-5\bin\Debug\Homework1-2-5.pdb
+D:\ISD\DZ\1\2-5\Homework1-2-5\Homework1-2-5\obj\Debug\Homework1-2-5.csprojResolveAssemblyReference.cache
+D:\ISD\DZ\1\2-5\Homework1-2-5\Homework1-2-5\obj\Debug\Homework1-2-5.csproj.CoreCompileInputs.cache
+D:\ISD\DZ\1\2-5\Homework1-2-5\Homework1-2-5\obj\Debug\Homework1-2-5.exe
+D:\ISD\DZ\1\2-5\Homework1-2-5\Homework1-2-5\obj\Debug\Homework1-2-5.pdb
