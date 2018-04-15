@@ -41,6 +41,7 @@ namespace Homework1_2_5
         {
             int day = GetDay();
             Console.WriteLine(week[day - 1]);
+            Console.ReadKey();
         }
     }
 }

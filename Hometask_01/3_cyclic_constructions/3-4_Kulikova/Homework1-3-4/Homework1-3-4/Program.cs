@@ -46,6 +46,7 @@ namespace Homework1_3_4
         static void Main(string[] args)
         {
             ShowSquares(GetNumber());
+            Console.ReadKey();
         }
     }
 }

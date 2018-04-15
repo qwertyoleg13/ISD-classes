@@ -33,6 +33,7 @@ namespace Homework1_2_1
             Console.WriteLine();
             int number2 = ReadNumber();
             Console.WriteLine(number1 > number2 ? number1 : number2);
+            Console.ReadKey();
         }
     }
 }
